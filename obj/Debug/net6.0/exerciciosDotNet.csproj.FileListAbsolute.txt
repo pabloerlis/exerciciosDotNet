@@ -1,0 +1,15 @@
+C:\projects\dotNet\exerciciosDotNet\bin\Debug\net6.0\exerciciosDotNet.exe
+C:\projects\dotNet\exerciciosDotNet\bin\Debug\net6.0\exerciciosDotNet.deps.json
+C:\projects\dotNet\exerciciosDotNet\bin\Debug\net6.0\exerciciosDotNet.runtimeconfig.json
+C:\projects\dotNet\exerciciosDotNet\bin\Debug\net6.0\exerciciosDotNet.dll
+C:\projects\dotNet\exerciciosDotNet\bin\Debug\net6.0\exerciciosDotNet.pdb
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.csproj.AssemblyReference.cache
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.AssemblyInfoInputs.cache
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.AssemblyInfo.cs
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.csproj.CoreCompileInputs.cache
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.dll
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\refint\exerciciosDotNet.dll
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.pdb
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\exerciciosDotNet.genruntimeconfig.cache
+C:\projects\dotNet\exerciciosDotNet\obj\Debug\net6.0\ref\exerciciosDotNet.dll
