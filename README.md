@@ -1,4 +1,9 @@
 # exerciciosDotNet
-[Fundamentos](https://github.com/pabloerlis/exerciciosDotNet/blob/7a5abd1c27136bfc2a644ba29cbd3b49b4e94389/outros.md)
+[Área da Esfera a partir do raio informado](https://github.com/pabloerlis/exerciciosDotNet/blob/82af49909869aa04af085f9e288fb6c68d69408c/src/outros/AreaEsfera.cs)
 
-[outros](https://github.com/pabloerlis/exerciciosDotNet/blob/7a5abd1c27136bfc2a644ba29cbd3b49b4e94389/outros.md)
+[Média de notas com pesos diferentes](https://github.com/pabloerlis/exerciciosDotNet/blob/82af49909869aa04af085f9e288fb6c68d69408c/src/outros/MediaNotaComPeso.cs)
+
+[Perímetro do polígono regular](https://github.com/pabloerlis/exerciciosDotNet/blob/82af49909869aa04af085f9e288fb6c68d69408c/src/outros/PoligonoRegular.cs)
+
+[Index do maior valor lido](https://github.com/pabloerlis/exerciciosDotNet/blob/82af49909869aa04af085f9e288fb6c68d69408c/src/outros/PosicaoDoMaiorValorLido.cs)
+
