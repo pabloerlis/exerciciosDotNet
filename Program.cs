@@ -13,6 +13,7 @@ namespace exerciciosDotNet
             var central = new exerciciosDotNet(new Dictionary<string, Action>() {
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Média nota com peso - Outros", MediaNotaComPeso.Executar},
+                {"Área da esfera - Outros", AreaEsfera.Executar},
             });
 
             central.SelecionarEExecutar();
