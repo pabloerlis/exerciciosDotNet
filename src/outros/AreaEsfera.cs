@@ -27,6 +27,7 @@ namespace exerciciosDotNet.src.outros
             raio = double.Parse(Console.ReadLine());
             volume = (4.0 / 3) * pi * raio * raio * raio;
             Console.WriteLine($"VOLUME = {volume.ToString("F3")}");
+            Console.ReadKey();
         }
     }
 }

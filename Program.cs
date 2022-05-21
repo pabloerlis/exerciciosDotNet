@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-using exerciciosDotNet.src.Fundamentos;
+﻿using exerciciosDotNet.src.Fundamentos;
 using exerciciosDotNet.src.outros;
 
 namespace exerciciosDotNet
@@ -14,6 +11,8 @@ namespace exerciciosDotNet
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Média nota com peso - Outros", MediaNotaComPeso.Executar},
                 {"Área da esfera - Outros", AreaEsfera.Executar},
+                {"Poligono Regular", PoligonoRegular.Executar},
+                {"Posição do maior valor fornecido", PosicaoDoMaiorValorLido.Executar},
             });
 
             central.SelecionarEExecutar();
