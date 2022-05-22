@@ -26,3 +26,5 @@
 [Soma pares consecutivos](https://github.com/pabloerlis/exerciciosDotNet/blob/896422239aa4ecaef108e5206355f7b2200a172b/src/outros/SomaParesConsecutivos.cs)
 
 [Contagem de cédulas de dinheiro](https://github.com/pabloerlis/exerciciosDotNet/blob/c5c08acdb02015c8ca2d82ea094bee0fd76af856/src/outros/ContagemCedulas.cs)
+
+[Área do triângulo ou o prerímetro caso não seja um](https://github.com/pabloerlis/exerciciosDotNet/blob/3505d096f8d0f01ec91ed8ea189fb73aeb22e233/src/outros/Triangulo.cs)
