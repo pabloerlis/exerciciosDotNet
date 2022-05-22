@@ -22,3 +22,5 @@
 [Retorna Mês do ano a partir de uma entrada](https://github.com/pabloerlis/exerciciosDotNet/blob/6c69115b21b4e91c18e6e067d4c9f1c5d619824f/src/outros/MesesDoAno.cs)
 
 [Quadrado e ao Cubo](https://github.com/pabloerlis/exerciciosDotNet/blob/066b7146921b5b05fd14a9ba44fab95bfbe859e2/src/outros/QuadradoEAoCubo.cs)
+
+[Soma pares consecutivos](https://github.com/pabloerlis/exerciciosDotNet/blob/896422239aa4ecaef108e5206355f7b2200a172b/src/outros/SomaParesConsecutivos.cs)
