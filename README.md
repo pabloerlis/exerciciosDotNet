@@ -28,3 +28,5 @@
 [Contagem de cédulas de dinheiro](https://github.com/pabloerlis/exerciciosDotNet/blob/c5c08acdb02015c8ca2d82ea094bee0fd76af856/src/outros/ContagemCedulas.cs)
 
 [Área do triângulo ou o prerímetro caso não seja um](https://github.com/pabloerlis/exerciciosDotNet/blob/3505d096f8d0f01ec91ed8ea189fb73aeb22e233/src/outros/Triangulo.cs)
+
+[Lista(s) de compras sem repetir item](https://github.com/pabloerlis/exerciciosDotNet/blob/8fbffbb23de51f1396491ed4163a3900771d2735/src/outros/ListaCompras.cs)
