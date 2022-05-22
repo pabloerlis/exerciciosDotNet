@@ -13,6 +13,7 @@ namespace exerciciosDotNet
                 {"Área da esfera - Outros", AreaEsfera.Executar},
                 {"Poligono Regular", PoligonoRegular.Executar},
                 {"Posição do maior valor fornecido", PosicaoDoMaiorValorLido.Executar},
+                {"Multiplicação simples", MultiplicacaoSimples.Executar},
             });
 
             central.SelecionarEExecutar();
