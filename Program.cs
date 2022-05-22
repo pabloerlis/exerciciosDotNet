@@ -16,6 +16,7 @@ namespace exerciciosDotNet
                 {"Multiplicação simples", MultiplicacaoSimples.Executar},
                 {"Média de consumo - competição", MediaConsumoCompeticao.Executar},
                 {"Média Semestral Aluno - Exame - Aprovado - Reprovado", MediaSemstreAluno.Executar},
+                {"Multiplos de 2, 3, 4 e 5 a partir de uma lista", MultiplosDe2_3_4_5.Executar},
             });
 
             central.SelecionarEExecutar();

@@ -22,7 +22,6 @@ Todas as respostas devem ser apresentadas com uma casa decimal. As mensagens dev
 conforme a descrição do problema. Não esqueça de imprimir o enter após o final de cada linha, 
 caso contrário obterá "Presentation Error".
 **/
-
 namespace exerciciosDotNet.src.outros
 {
     public class MediaSemstreAluno

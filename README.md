@@ -12,3 +12,5 @@
 [Média de consumo - competição](https://github.com/pabloerlis/exerciciosDotNet/blob/816bea8c467778ca115734259ed372f804c5f45c/src/outros/MediaConsumoCompeticao.cs)
 
 [Média Semestral Aluno - Exame - Aprovado - Reprovado](https://github.com/pabloerlis/exerciciosDotNet/blob/8c38d6b6826794291dec98c5d72f33466e36ad98/src/outros/MediaSemstreAluno.cs)
+
+[Multiplos de 2, 3, 4 e 5 a partir de uma lista]()
