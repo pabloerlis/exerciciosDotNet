@@ -22,6 +22,7 @@ namespace exerciciosDotNet
                 {"Soma pares consecutivos", SomaParesConsecutivos.Executar},
                 {"Contagem de cédulas de dinheiro", ContagemCedulas.Executar},
                 {"Área do triângulo ou o prerímetro caso não seja um", Triangulo.Executar},
+                {"Lista(s) de compras sem repetir item", ListaCompras.Executar},
             });
 
             central.SelecionarEExecutar();
