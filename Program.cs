@@ -14,6 +14,7 @@ namespace exerciciosDotNet
                 {"Poligono Regular", PoligonoRegular.Executar},
                 {"Posição do maior valor fornecido", PosicaoDoMaiorValorLido.Executar},
                 {"Multiplicação simples", MultiplicacaoSimples.Executar},
+                {"Média de consumo - competição", MediaConsumoCompeticao.Executar},
             });
 
             central.SelecionarEExecutar();
