@@ -1,5 +1,7 @@
 # exerciciosDotNet 
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VsCode" alt="VsCode">
+<img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" title="dotNet" alt="dotNet">
+
 
 [Área da Esfera a partir do raio informado](https://github.com/pabloerlis/exerciciosDotNet/blob/82af49909869aa04af085f9e288fb6c68d69408c/src/outros/AreaEsfera.cs)
 
