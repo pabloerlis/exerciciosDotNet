@@ -18,6 +18,7 @@ namespace exerciciosDotNet
                 {"Média Semestral Aluno - Exame - Aprovado - Reprovado", MediaSemstreAluno.Executar},
                 {"Multiplos de 2, 3, 4 e 5 a partir de uma lista", MultiplosDe2_3_4_5.Executar},
                 {"Retorna Mês do ano a partir de uma entrada", MesesDoAno.Executar},
+                {"Quadrado e ao Cubo", QuadradoEAoCubo.Executar},
             });
 
             central.SelecionarEExecutar();
