@@ -20,6 +20,7 @@ namespace exerciciosDotNet
                 {"Retorna Mês do ano a partir de uma entrada", MesesDoAno.Executar},
                 {"Quadrado e ao Cubo", QuadradoEAoCubo.Executar},
                 {"Soma pares consecutivos", SomaParesConsecutivos.Executar},
+                {"Contagem de cédulas de dinheiro", ContagemCedulas.Executar},
             });
 
             central.SelecionarEExecutar();
