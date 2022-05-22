@@ -16,3 +16,5 @@
 [Multiplos de 2, 3, 4 e 5 a partir de uma lista](https://github.com/pabloerlis/exerciciosDotNet/blob/1b418b14d81cc8cd17c7e806d45158b93c55b918/src/outros/MultiplosDe2_3_4_5.cs)
 
 [Retorna Mês do ano a partir de uma entrada](https://github.com/pabloerlis/exerciciosDotNet/blob/6c69115b21b4e91c18e6e067d4c9f1c5d619824f/src/outros/MesesDoAno.cs)
+
+[Quadrado e ao Cubo](https://github.com/pabloerlis/exerciciosDotNet/blob/066b7146921b5b05fd14a9ba44fab95bfbe859e2/src/outros/QuadradoEAoCubo.cs)
