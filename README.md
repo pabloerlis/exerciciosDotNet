@@ -14,3 +14,5 @@
 [Média Semestral Aluno - Exame - Aprovado - Reprovado](https://github.com/pabloerlis/exerciciosDotNet/blob/8c38d6b6826794291dec98c5d72f33466e36ad98/src/outros/MediaSemstreAluno.cs)
 
 [Multiplos de 2, 3, 4 e 5 a partir de uma lista](https://github.com/pabloerlis/exerciciosDotNet/blob/1b418b14d81cc8cd17c7e806d45158b93c55b918/src/outros/MultiplosDe2_3_4_5.cs)
+
+[Retorna Mês do ano a partir de uma entrada](https://github.com/pabloerlis/exerciciosDotNet/blob/6c69115b21b4e91c18e6e067d4c9f1c5d619824f/src/outros/MesesDoAno.cs)
