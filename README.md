@@ -1,4 +1,6 @@
-# exerciciosDotNet
+# exerciciosDotNet 
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
+
 [Área da Esfera a partir do raio informado](https://github.com/pabloerlis/exerciciosDotNet/blob/82af49909869aa04af085f9e288fb6c68d69408c/src/outros/AreaEsfera.cs)
 
 [Média de notas com pesos diferentes](https://github.com/pabloerlis/exerciciosDotNet/blob/82af49909869aa04af085f9e288fb6c68d69408c/src/outros/MediaNotaComPeso.cs)
