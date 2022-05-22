@@ -15,6 +15,7 @@ namespace exerciciosDotNet
                 {"Posição do maior valor fornecido", PosicaoDoMaiorValorLido.Executar},
                 {"Multiplicação simples", MultiplicacaoSimples.Executar},
                 {"Média de consumo - competição", MediaConsumoCompeticao.Executar},
+                {"Média Semestral Aluno - Exame - Aprovado - Reprovado", MediaSemstreAluno.Executar},
             });
 
             central.SelecionarEExecutar();

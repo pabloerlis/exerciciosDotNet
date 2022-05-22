@@ -10,3 +10,5 @@
 [Multiplicação simples](https://github.com/pabloerlis/exerciciosDotNet/blob/4da2a2aea4801631685bdf9e27586f05cfe5c9e1/src/outros/MultiplicacaoSimples.cs)
 
 [Média de consumo - competição](https://github.com/pabloerlis/exerciciosDotNet/blob/816bea8c467778ca115734259ed372f804c5f45c/src/outros/MediaConsumoCompeticao.cs)
+
+[Média Semestral Aluno - Exame - Aprovado - Reprovado]()
