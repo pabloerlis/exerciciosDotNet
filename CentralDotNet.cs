@@ -1,8 +1,8 @@
 ﻿namespace exerciciosDotNet {
-    public class exerciciosDotNet {
+    public class CentralDotNet {
         Dictionary<string, Action> Exercicios;
 
-        public exerciciosDotNet(Dictionary<string, Action> exercicios) {
+        public CentralDotNet(Dictionary<string, Action> exercicios) {
             Exercicios = exercicios;    
         }
 

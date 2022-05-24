@@ -11,8 +11,6 @@ namespace exerciciosDotNet.src.POO
             Pessoa_MaiorIdade p1 = new Pessoa_MaiorIdade();
             Pessoa_MaiorIdade p2 = new Pessoa_MaiorIdade();
             Pessoa_MaiorIdade p3 = new Pessoa_MaiorIdade();
-            string nome = "";
-            int idade = 0;
 
             Console.WriteLine("Determina qual pessoa dentre as três é a mais velha");
             Console.WriteLine("Qual o nome da primeira pessoa:");
