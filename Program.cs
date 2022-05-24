@@ -1,5 +1,7 @@
 ﻿using exerciciosDotNet.src.Fundamentos;
 using exerciciosDotNet.src.outros;
+using exerciciosDotNet.src.POO;
+
 
 namespace exerciciosDotNet
 {
@@ -23,6 +25,7 @@ namespace exerciciosDotNet
                 {"Contagem de cédulas de dinheiro", ContagemCedulas.Executar},
                 {"Área do triângulo ou o prerímetro caso não seja um", Triangulo.Executar},
                 {"Lista(s) de compras sem repetir item", ListaCompras.Executar},
+                {"POO Maior idade", Program_MaiorIdade.Executar},
             });
 
             central.SelecionarEExecutar();
