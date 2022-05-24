@@ -30,3 +30,7 @@
 [Área do triângulo ou o prerímetro caso não seja um](https://github.com/pabloerlis/exerciciosDotNet/blob/3505d096f8d0f01ec91ed8ea189fb73aeb22e233/src/outros/Triangulo.cs)
 
 [Lista(s) de compras sem repetir item](https://github.com/pabloerlis/exerciciosDotNet/blob/8fbffbb23de51f1396491ed4163a3900771d2735/src/outros/ListaCompras.cs)
+
+[POO Maior idade](https://github.com/pabloerlis/exerciciosDotNet/blob/59615e792861c569a4dcd3f1308ce4f3bcb8b18c/src/POO/Program_MaiorIdade.cs)
+
+[POO Maior idade - classe Pessoa](https://github.com/pabloerlis/exerciciosDotNet/blob/59615e792861c569a4dcd3f1308ce4f3bcb8b18c/src/POO/Pessoa_MaiorIdade.cs)
