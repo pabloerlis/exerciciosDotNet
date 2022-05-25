@@ -34,3 +34,7 @@
 [POO Maior idade](https://github.com/pabloerlis/exerciciosDotNet/blob/59615e792861c569a4dcd3f1308ce4f3bcb8b18c/src/POO/Program_MaiorIdade.cs)
 
 [POO Maior idade - classe Pessoa](https://github.com/pabloerlis/exerciciosDotNet/blob/59615e792861c569a4dcd3f1308ce4f3bcb8b18c/src/POO/Pessoa_MaiorIdade.cs)
+
+[POO Lista de animais](https://github.com/pabloerlis/exerciciosDotNet/blob/236980186aabf39f2f09687026ce638b31e5dd40/src/POO/Program_ControleAnimais.cs)
+
+[POO Lista de animais - Classe Animal](https://github.com/pabloerlis/exerciciosDotNet/blob/236980186aabf39f2f09687026ce638b31e5dd40/src/POO/Animal_ControleAnimais.cs)
