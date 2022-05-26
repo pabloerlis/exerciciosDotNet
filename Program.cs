@@ -27,6 +27,7 @@ namespace exerciciosDotNet
                 {"Lista(s) de compras sem repetir item - Outros", ListaCompras.Executar},
                 {"Maior idade - POO", Program_MaiorIdade.Executar},
                 {"Lista de animais - POO", Program_ControleAnimais.Executar},
+                {"Área do retângulo - POO", Program_Retangulo.Executar},
             });
 
             central.SelecionarEExecutar();
