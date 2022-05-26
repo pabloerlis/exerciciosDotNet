@@ -38,3 +38,7 @@
 [POO Lista de animais](https://github.com/pabloerlis/exerciciosDotNet/blob/236980186aabf39f2f09687026ce638b31e5dd40/src/POO/Program_ControleAnimais.cs)
 
 [POO Lista de animais - Classe Animal](https://github.com/pabloerlis/exerciciosDotNet/blob/236980186aabf39f2f09687026ce638b31e5dd40/src/POO/Animal_ControleAnimais.cs)
+
+[POO Área do retângulo](https://github.com/pabloerlis/exerciciosDotNet/blob/2fdcd8d617569fd9a94bfa4fd5ee48f7d060d40d/src/POO/Program_Retangulo.cs)
+
+[POO Área do retângulo - Classe Retangulo](https://github.com/pabloerlis/exerciciosDotNet/blob/2fdcd8d617569fd9a94bfa4fd5ee48f7d060d40d/src/POO/Retangulo.cs)
